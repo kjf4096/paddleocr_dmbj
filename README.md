@@ -27,6 +27,12 @@
 
 3、点“记笔记”或“ctrl+x"按钮开始在截图区域进行“盗幕笔记”，记录在pptx文档中（见效果图）。
 
+<center class="half">
+     <img src="(https://user-images.githubusercontent.com/48580700/148766394-9ad76766-0931-4c81-953a-23248cc3411b.jpg" width="200"/><img src="https://user-images.githubusercontent.com/48580700/148766399-25746885-0723-4d04-b65c-75a74ac65ad5.png" width="200"/>
+ 
+</center>
+
+
 ![img1](https://user-images.githubusercontent.com/48580700/148766394-9ad76766-0931-4c81-953a-23248cc3411b.jpg)![1](https://user-images.githubusercontent.com/48580700/148766399-25746885-0723-4d04-b65c-75a74ac65ad5.png)
 
 ![img2](https://user-images.githubusercontent.com/48580700/148766395-5038e67d-2837-4423-891f-c0d3d396883b.jpg)![2](https://user-images.githubusercontent.com/48580700/148766396-dc06c766-9264-49a8-8228-6b33e9bb8857.png)
