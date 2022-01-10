@@ -1,0 +1,10 @@
+paddleocr
+python-pptx
+pyautogui
+keyboard
+cv2
+numpy
+tkinter
+PIL
+os
+
