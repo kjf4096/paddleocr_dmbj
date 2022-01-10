@@ -15,7 +15,8 @@
  ## 截图与UI界面
     基于paddleocr和tkinter实现
     
-    ![000](https://user-images.githubusercontent.com/48580700/148766983-3ef540da-dbdf-4a8d-9bb2-881933fd7e13.jpg)
+    ![a01](https://user-images.githubusercontent.com/48580700/148767259-025d030e-274a-4a19-82a6-ac531e0524c7.jpg)
+
 
 
 ## 使用方法
