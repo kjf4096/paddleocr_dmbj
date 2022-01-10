@@ -16,10 +16,13 @@
  ### python dmbj.py
  
  ## 截图与UI界面
-    基于paddleocr和tkinter实现
+ 
+ 基于paddleocr和tkinter实现
+ 
+ ![a01](https://user-images.githubusercontent.com/48580700/148767259-025d030e-274a-4a19-82a6-ac531e0524c7.jpg)
+    
     
-    ![a01](https://user-images.githubusercontent.com/48580700/148767259-025d030e-274a-4a19-82a6-ac531e0524c7.jpg)
-    ![a01](https://github.com/kjf4096/paddleocr_dmbj/blob/main/%E7%95%8C%E9%9D%A2.jpg)
+
 
 
 
